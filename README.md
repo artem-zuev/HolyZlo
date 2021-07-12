@@ -25,7 +25,7 @@ my resume - <a href='http:\\holyzlo.ru'>hh.ru</a>
 ## 🛠 Technical Stack
 *   Java/Visual FoxPro 9/ and ///coming soon///
 *   MySQL, PostgreSQL, Oracle and ///coming soon///
-*   Spring Framework, and ///coming soon///
+*   Spring Boot, Spring Data, Spring MVC and ///coming soon///
 *   GitHub and ///coming soon///
 
 ### My opensource projects
