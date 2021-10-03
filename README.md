@@ -23,14 +23,16 @@ my resume - <a href='http:\\holyzlo.ru'>hh.ru</a>
 *   Currently working in [SEVMASH](https://www.facebook.com/sevmash.ru/)
 
 ## 🛠 Technical Stack
-*   Java/Visual FoxPro 9/ and ///coming soon///
-*   MySQL, PostgreSQL, Oracle and ///coming soon///
-*   Spring Boot, Spring Data, Spring MVC and ///coming soon///
-*   GitHub and ///coming soon///
+*   Java/Visual FoxPro 9/ JavaScript / HTML5 / CSS3
+*   MySQL, PostgreSQL, Oracle / Hibernate
+*   Spring Boot, Spring Data, Spring MVC / Rest api
+*   Git/Jira/Figma
 
 ### My opensource projects
 //In the process of creation
-
+<a href = "holyzlo.ru">
+my web site
+</a>
 
 <div align="center" style="margin: 40px 0">
    <a href="https://github.com/HolyZlo/github-profile-views-counter">
