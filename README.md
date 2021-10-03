@@ -2,7 +2,7 @@
 I am a beginner Java Programmer, but I have been programming for more than 5 years. I'm moving from dead languages to modern development.
 my resume - <a href='http:\\hh.holyzlo.ru'>hh.ru</a>
 my instagram - <a href='http:\inst.holyzlo.ru'>Instagram</a>
-my VK - <a href='http:\vk.holyzlo.ru'>Instagram</a>
+my VK - <a href='http:\vk.holyzlo.ru'>vk.com</a>
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=HolyZlo&show_icons=true&count_private=true"><img
            height=150
