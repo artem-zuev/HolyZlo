@@ -22,7 +22,7 @@ my VK - <a href='http:\vk.holyzlo.ru'>vk.com</a>
 
 ### Key points
 *   I am 29 years old, I have been working at a large machine-building enterprise as a software engineer for 6 years, my main tasks include support and revision of legacy code.
-*   Currently working in [SEVMASH](https://www.facebook.com/sevmash.ru/)
+*   Currently working in [DIS-Group](https://dis-group.ru/)
 
 ## 🛠 Technical Stack
 *   Java/Visual FoxPro 9/ JavaScript / HTML5 / CSS3
