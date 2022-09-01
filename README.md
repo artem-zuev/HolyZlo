@@ -1,5 +1,5 @@
 # Hi, I'm Artem 👋
-I am a beginner Java Programmer, but I have been programming for more than 5 years. I'm moving from dead languages to modern development.
+I am a Java Programmer. I'm moving from dead languages to modern development.
 my resume - <a href='http:\\hh.holyzlo.ru'>hh.ru</a>
 my instagram - <a href='http:\inst.holyzlo.ru'>Instagram</a>
 my VK - <a href='http:\vk.holyzlo.ru'>vk.com</a>
@@ -21,8 +21,8 @@ my VK - <a href='http:\vk.holyzlo.ru'>vk.com</a>
 
 
 ### Key points
-*   I am 29 years old, I have been working at a large machine-building enterprise as a software engineer for 6 years, my main tasks include support and revision of legacy code.
-*   Currently working in [DIS-Group](https://dis-group.ru/)
+*   I am 31 years old, I have been working at a large machine-building enterprise as a software engineer for 6 years, my main tasks include support and revision of legacy code.
+*   Currently working in [DBI](https://dbi.ru/)
 
 ## 🛠 Technical Stack
 *   Java/Visual FoxPro 9/ JavaScript / HTML5 / CSS3
@@ -33,7 +33,7 @@ my VK - <a href='http:\vk.holyzlo.ru'>vk.com</a>
 ### My opensource projects
 //In the process of creation
 <a href = "http:\\holyzlo.ru">
-my web site
+my web site/off
 </a>
 
 <div align="center" style="margin: 40px 0">
