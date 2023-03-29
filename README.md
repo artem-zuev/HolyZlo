@@ -1,8 +1,7 @@
 # Hi, I'm Artem 👋
 I am a Java Programmer. I'm moving from dead languages to modern development.
-my resume - <a href='http:\\hh.holyzlo.ru'>hh.ru</a>
+my resume - <a href='https://severodvinsk.hh.ru/resume/07d81335ff02a7b7a40039ed1f5233634b627a'>hh.ru</a>
 my instagram - <a href='http:\inst.holyzlo.ru'>Instagram</a>
-my VK - <a href='http:\vk.holyzlo.ru'>vk.com</a>
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=HolyZlo&show_icons=true&count_private=true"><img
            height=150
