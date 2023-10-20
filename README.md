@@ -1,7 +1,7 @@
 # Hi, I'm Artem 👋
 I am a Java Programmer. I'm moving from dead languages to modern development.
-my resume - <a href='https://severodvinsk.hh.ru/resume/07d81335ff02a7b7a40039ed1f5233634b627a'>hh.ru</a>
-my instagram - <a href='http:\inst.holyzlo.ru'>Instagram</a>
+my resume - <a href='https://tbilisi.headhunter.ge/resume/d49f9480ff0c54fe2a0039ed1f417866646756'>hh.ru</a>
+my instagram - <a href='https://www.instagram.com/holyzlo/'>Instagram</a>
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=HolyZlo&show_icons=true&count_private=true"><img
            height=150
@@ -15,7 +15,7 @@ my instagram - <a href='http:\inst.holyzlo.ru'>Instagram</a>
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
 <p align='center'>
-   📫 How to reach me: <a href='mailto:info@holyzlo.ru'>info@holyzlo.ru</a>
+   📫 How to reach me: <a href='mailto:holyzlo91@gmail.com'>info@holyzlo.ru</a>
 </p>
 
 
@@ -31,9 +31,6 @@ my instagram - <a href='http:\inst.holyzlo.ru'>Instagram</a>
 
 ### My opensource projects
 //In the process of creation
-<a href = "http:\\holyzlo.ru">
-my web site/off
-</a>
 
 <div align="center" style="margin: 40px 0">
    <a href="https://github.com/HolyZlo/github-profile-views-counter">
