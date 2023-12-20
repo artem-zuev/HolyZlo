@@ -13,11 +13,9 @@ My core skill set includes Java 8-17, Spring, Kafka, SQL, and noSQL databases, m
 my resume - <a href='https://tbilisi.headhunter.ge/resume/d49f9480ff0c54fe2a0039ed1f417866646756'>hh.ru</a>
 my instagram - <a href='https://www.instagram.com/holyzlo/'>Instagram</a>
 <p align='center'>
-   <a href="https://github-readme-stats.vercel.app/api?username=HolyZlo&show_icons=true&count_private=true"><img
+   <a href="!https://github-readme-streak-stats.herokuapp.com/?user=HolyZlo&theme=vue-dark&hide_border=false"><img
            height=150
-           src="https://github-readme-stats.vercel.app/api?username=HolyZlo&show_icons=true&count_private=true"/></a>
-   <a href="https://github.com/HolyZlo/github-readme-stats"><img height=150
-                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=HolyZlo&layout=compact"/></a>
+           src="https://github-readme-streak-stats.herokuapp.com/?user=HolyZlo&theme=vue-dark&hide_border=false"/></a>
 </p>
 
 <p align='center'>
