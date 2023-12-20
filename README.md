@@ -1,9 +1,14 @@
 # Hi, I'm Artem 👋
-I am an 8-year experienced Java developer with expertise in designing, developing, and maintaining desktop and web applications. Throughout my career, I have actively participated in the entire development lifecycle of three projects, from ideation to product deployment, and successfully performed deep refactoring on two projects.
+I am an 8-year experienced Java developer with expertise in designing, developing, and maintaining desktop and
+web applications. Throughout my career, I have actively participated in the entire development lifecycle of three
+projects, from ideation to product deployment, and successfully performed deep refactoring on two projects. 
 
-I possess a track record of seamlessly integrating new technologies into existing projects. Moreover, I specialize in identifying and optimizing bottlenecks, as well as restructuring current solutions to enhance their security, speed, and user-friendliness. I am known for making decisive choices and taking responsibility for them. As a self-directed learner, I thrive under pressure and contribute effectively as a results-driven team player.
+I possess a track record of seamlessly integrating new technologies into existing projects. Moreover, I specialize
+in identifying and optimizing bottlenecks, as well as restructuring current solutions to enhance their security,
+speed, and user-friendliness. I am known for making decisive choices and taking responsibility for them. As a
+self-directed learner, I thrive under pressure and contribute effectively as a results-driven team player.
 
-My core skill set includes Java 8-17, Spring, Kafka, SQL, and noSQL databases.
+My core skill set includes Java 8-17, Spring, Kafka, SQL, and noSQL databases, microservices.
 
 my resume - <a href='https://tbilisi.headhunter.ge/resume/d49f9480ff0c54fe2a0039ed1f417866646756'>hh.ru</a>
 my instagram - <a href='https://www.instagram.com/holyzlo/'>Instagram</a>
@@ -26,7 +31,7 @@ my instagram - <a href='https://www.instagram.com/holyzlo/'>Instagram</a>
 
 ### Key points
 *   I am 31 years old, I have been working at a large machine-building enterprise as a software engineer for 6 years, my main tasks include support and revision of legacy code.
-*   Currently working in [DBI](https://dbi.ru/)
+
 
 ## 🛠 Technical Stack
 *   Java/Visual FoxPro 9/ JavaScript / HTML5 / CSS3
