@@ -26,20 +26,6 @@ my instagram - <a href='https://www.instagram.com/holyzlo/'>Instagram</a>
    📫 How to reach me: <a href='mailto:holyzlo91@gmail.com'>info@holyzlo.ru</a>
 </p>
 
-
-### Key points
-*   I am 31 years old, I have been working at a large machine-building enterprise as a software engineer for 6 years, my main tasks include support and revision of legacy code.
-
-
-## 🛠 Technical Stack
-*   Java/Visual FoxPro 9/ JavaScript / HTML5 / CSS3
-*   MySQL, PostgreSQL, Oracle / Hibernate
-*   Spring Boot, Spring Data, Spring MVC / Rest api
-*   Git/Jira/Figma
-
-### My opensource projects
-//In the process of creation
-
 <div align="center" style="margin: 40px 0">
    <a href="https://github.com/HolyZlo/github-profile-views-counter">
        <img width="175px" src="https://komarev.com/ghpvc/?username=HolyZlo&color=DE002D">
